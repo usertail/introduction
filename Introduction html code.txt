@@ -1,12 +1,1 @@
-<html> 
-
-
-<body> 
-
-<h1> Hello, My name is Terry </h1>
-
-<p> I enjoy playing video games </p> 
-
-</body>
-</html>
-
+hello
